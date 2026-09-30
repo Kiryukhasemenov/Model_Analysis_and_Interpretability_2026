@@ -1,0 +1,310 @@
+	language	relation	sub_uri	sub_label	obj_uri	obj_label
+0	en	P36	Q2599799	Brody Raion	Q465104	Brody
+1	en	P36	Q108418	Cook County	Q1297	Chicago
+2	en	P36	Q26895	Fort Bend County	Q961272	Richmond
+3	en	P36	Q115182	Cayuga County	Q225519	Auburn
+4	en	P36	Q1539297	City of Hawkesbury	Q1026964	Windsor
+5	en	P36	Q1553	Nebraska	Q28260	Lincoln
+6	en	P36	Q29943	Alexandria Governorate	Q87	Alexandria
+7	en	P36	Q35715	South Australia	Q5112	Adelaide
+8	en	P36	Q491843	Breathitt County	Q2739403	Jackson
+9	en	P36	Q490386	Gasconade County	Q966428	Hermann
+10	en	P36	Q657004	Canterbury Region	Q79990	Christchurch
+11	en	P36	Q694594	Duchy of Bremen and Verden	Q6949	Stade
+12	en	P36	Q1951	Alberta	Q2096	Edmonton
+13	en	P36	Q485588	Athens County	Q755420	Athens
+14	en	P36	Q61138	Ouachita County	Q79446	Camden
+15	en	P36	Q1415	Indiana	Q6346	Indianapolis
+16	en	P36	Q502880	Watauga County	Q893055	Boone
+17	en	P36	Q498024	Oakland County	Q847596	Pontiac
+18	en	P36	Q312731	Pueblo County	Q675576	Pueblo
+19	en	P36	Q23112	Cambridgeshire	Q350	Cambridge
+20	en	P36	Q505018	Lund Municipality	Q2167	Lund
+21	en	P36	Q504397	Alamance County	Q153183	Graham
+22	en	P36	Q781165	Lebanon County	Q1016139	Lebanon
+23	en	P36	Q502294	Milwaukee County	Q37836	Milwaukee
+24	en	P36	Q135330	Kidder County	Q2018815	Steele
+25	en	P36	Q12556	Indre-et-Loire	Q288	Tours
+26	en	P36	Q1447	Apulia	Q3519	Bari
+27	en	P36	Q1114	East Flanders	Q1296	Ghent
+28	en	P36	Q1166	Michigan	Q28237	Lansing
+29	en	P36	Q494129	Cabell County	Q241808	Huntington
+30	en	P36	Q217838	Stirling	Q182923	Stirling
+31	en	P36	Q205662	Tokugawa Shogunate	Q215646	Edo
+32	en	P36	Q112456	Amite County	Q944375	Liberty
+33	en	P36	Q486007	West Kazakhstan Region	Q487439	Oral
+34	en	P36	Q34366	Tasmania	Q40191	Hobart
+35	en	P36	Q178283	County Limerick	Q133315	Limerick
+36	en	P36	Q726917	Auckland Region	Q37100	Auckland
+37	en	P36	Q171852	Odessa Oblast	Q1874	Odessa
+38	en	P36	Q2484819	Tripoli District	Q168954	Tripoli
+39	en	P36	Q189592	County Antrim	Q609235	Antrim
+40	en	P36	Q493228	Ferry County	Q1006641	Republic
+41	en	P36	Q12560	Ottoman Empire	Q406	Istanbul
+42	en	P36	Q58683	Greenlee County	Q691583	Clifton
+43	en	P36	Q180231	County Kilkenny	Q109092	Kilkenny
+44	en	P36	Q48026	South West England	Q23154	Bristol
+45	en	P36	Q1439	Texas	Q16559	Austin
+46	en	P36	Q512925	Matanuska-Susitna Borough	Q79849	Palmer
+47	en	P36	Q379657	Reno County	Q958555	Hutchinson
+48	en	P36	Q501151	Meriwether County	Q2416565	Greenville
+49	en	P36	Q496758	Ravalli County	Q602520	Hamilton
+50	en	P36	Q490168	Guernsey County	Q249454	Cambridge
+51	en	P36	Q48933	Oliver County	Q2087867	Center
+52	en	P36	Q23135	Worcestershire	Q1646181	Worcester
+53	en	P36	Q1400	Pennsylvania	Q25280	Harrisburg
+54	en	P36	Q169923	County Galway	Q129610	Galway
+55	en	P36	Q2335128	Province of New Jersey	Q138311	Elizabeth
+56	en	P36	Q491954	Androscoggin County	Q758545	Auburn
+57	en	P36	Q497172	Kennebec County	Q28206	Augusta
+58	en	P36	Q188801	Royal Borough of Kensington and Chelsea	Q288781	Kensington
+59	en	P36	Q23106	Leicestershire	Q83065	Leicester
+60	en	P36	Q108861	King County	Q5083	Seattle
+61	en	P36	Q374890	Riley County	Q856841	Manhattan
+62	en	P36	Q209142	South Lanarkshire	Q4131	Hamilton
+63	en	P36	Q156297	Bernalillo County	Q34804	Albuquerque
+64	en	P36	Q491903	Casey County	Q2912504	Liberty
+65	en	P36	Q58711	Yavapai County	Q79931	Prescott
+66	en	P36	Q13810	Guimaras	Q313802	Jordan
+67	en	P36	Q63729	Moffat County	Q989873	Craig
+68	en	P36	Q613	Emirate of Dubai	Q612	Dubai
+69	en	P36	Q28311	Divide County	Q1772493	Crosby
+70	en	P36	Q712832	Volta Region	Q615006	Ho
+71	en	P36	Q1185	Karnataka	Q1355	Bengaluru
+72	en	P36	Q115551	Eagle County	Q670929	Eagle
+73	en	P36	Q494751	Overton County	Q2171593	Livingston
+74	en	P36	Q241	Cuba	Q1563	Havana
+75	en	P36	Q54929	Toledo Province	Q5836	Toledo
+76	en	P36	Q497652	McCone County	Q956256	Circle
+77	en	P36	Q112078	Hemphill County	Q970397	Canadian
+78	en	P36	Q1025962	Cairns Region	Q189133	Cairns
+79	en	P36	Q951713	Mackay Region	Q704371	Mackay
+80	en	P36	Q779	Connecticut	Q33486	Hartford
+81	en	P36	Q487415	Lemhi County	Q1516936	Salmon
+82	en	P36	Q184599	County Wexford	Q209126	Wexford
+83	en	P36	Q487616	Chenango County	Q1380484	Norwich
+84	en	P36	Q1891143	Mansfield	Q841979	Mansfield
+85	en	P36	Q484300	Bates County	Q955151	Butler
+86	en	P36	Q12172	Basel-Stadt	Q78	Basel
+87	en	P36	Q43325	Salzburg	Q34713	Salzburg
+88	en	P36	Q120730	Kyōto Prefecture	Q34600	Kyoto
+89	en	P36	Q6273074	West Jersey	Q1550922	Burlington
+90	en	P36	Q495414	Malheur County	Q3458928	Vale
+91	en	P36	Q468557	Miami-Dade County	Q8652	Miami
+92	en	P36	Q165352	Kerman Province	Q171714	Kerman
+93	en	P36	Q58686	Gila County	Q79823	Globe
+94	en	P36	Q1121436	Province of Canada	Q340	Montreal
+95	en	P36	Q3139	Alpes-Maritimes	Q33959	Nice
+96	en	P36	Q191	Estonia	Q1770	Tallinn
+97	en	P36	Q3206	Western Australia	Q3183	Perth
+98	en	P36	Q3224	New South Wales	Q3130	Sydney
+99	en	P36	Q108111	Riverside County	Q49243	Riverside
+100	en	P36	Q717	Venezuela	Q1533	Caracas
+101	en	P36	Q1948	Manitoba	Q2135	Winnipeg
+102	en	P36	Q10416611	Vandal Kingdom	Q6343	Carthage
+103	en	P36	Q1364541	Bolton	Q184579	Bolton
+104	en	P36	Q956732	Hassan District	Q47264	Hassan
+105	en	P36	Q139918	Waikato Region	Q200028	Hamilton
+106	en	P36	Q494598	Mingo County	Q2405120	Williamson
+107	en	P36	Q1989	Saskatchewan	Q2123	Regina
+108	en	P36	Q491927	Calloway County	Q984364	Murray
+109	en	P36	Q494636	McMinn County	Q3292481	Athens
+110	en	P36	Q61153	Poinsett County	Q79652	Harrisburg
+111	en	P36	Q488201	Banks County	Q2101592	Homer
+112	en	P36	Q484740	Cape Girardeau County	Q959843	Jackson
+113	en	P36	Q486081	Barren County	Q1762833	Glasgow
+114	en	P36	Q203049	Gage County	Q813247	Beatrice
+115	en	P36	Q23140	Warwickshire	Q549761	Warwick
+116	en	P36	Q312475	Pitkin County	Q205842	Aspen
+117	en	P36	Q503546	Rabun County	Q2600941	Clayton
+118	en	P36	Q502503	Granville County	Q2022826	Oxford
+119	en	P36	Q512965	Jennings County	Q1939252	Vernon
+120	en	P36	Q184594	County Waterford	Q183551	Waterford
+121	en	P36	Q141026	Algiers Province	Q3561	Algiers
+122	en	P36	Q191186	Carabobo	Q54880	Valencia
+123	en	P36	Q894092	Scarborough	Q743521	Scarborough
+124	en	P36	Q13160	Jalisco	Q9022	Guadalajara
+125	en	P36	Q173	Alabama	Q29364	Montgomery
+126	en	P36	Q23090	Lincolnshire	Q180057	Lincoln
+127	en	P36	Q376178	Straits Settlements	Q334	Singapore
+128	en	P36	Q11079799	City of Parramatta Council	Q21319	Parramatta
+129	en	P36	Q16987	Nord-Pas-de-Calais	Q648	Lille
+130	en	P36	Q1537	Wisconsin	Q43788	Madison
+131	en	P36	Q108058	Contra Costa County	Q506439	Martinez
+132	en	P36	Q13751	Biliran	Q277211	Naval
+133	en	P36	Q16665897	Metropolis of Lyon	Q456	Lyon
+134	en	P36	Q336229	Trumbull County	Q862733	Warren
+135	en	P36	Q214064	Aleppo Governorate	Q41183	Aleppo
+136	en	P36	Q109790	Cache County	Q482657	Logan
+137	en	P36	Q1261	Colorado	Q16554	Denver
+138	en	P36	Q238445	Emirate of Granada	Q8810	Granada
+139	en	P36	Q816	Arizona	Q16556	Phoenix
+140	en	P36	Q23103	Shropshire	Q201970	Shrewsbury
+141	en	P36	Q484367	Harney County	Q6178257	Burns
+142	en	P36	Q495738	Mobile County	Q79875	Mobile
+143	en	P36	Q16	Canada	Q1930	Ottawa
+144	en	P36	Q507078	Ouachita Parish	Q947115	Monroe
+145	en	P36	Q127513	Kanagawa Prefecture	Q38283	Yokohama
+146	en	P36	Q23156	Devon	Q134672	Exeter
+147	en	P36	Q489935	Preble County	Q1000148	Eaton
+148	en	P36	Q232043	Constantine Province	Q187346	Constantine
+149	en	P36	Q511106	Wicomico County	Q755566	Salisbury
+150	en	P36	Q2357511	Dundee City	Q123709	Dundee
+151	en	P36	Q1774848	Valverde Province	Q692560	Mao
+152	en	P36	Q1026448	Calderdale	Q826561	Halifax
+153	en	P36	Q1202	Saxony	Q1731	Dresden
+154	en	P36	Q234167	Mecca Province	Q5806	Mecca
+155	en	P36	Q489369	Haakon County	Q593141	Philip
+156	en	P36	Q16578	Flores Department	Q862508	Trinidad
+157	en	P36	Q23111	Suffolk	Q184775	Ipswich
+158	en	P36	Q26	Northern Ireland	Q10686	Belfast
+159	en	P36	Q502393	Maury County	Q5675279	Columbia
+160	en	P36	Q510947	Shenandoah County	Q1375409	Woodstock
+161	en	P36	Q128079	Kit Carson County	Q939025	Burlington
+162	en	P36	Q485213	Callaway County	Q839802	Fulton
+163	en	P36	Q61042	Izard County	Q79459	Melbourne
+164	en	P36	Q26885	Colorado County	Q975782	Columbus
+165	en	P36	Q502483	Catawba County	Q2027967	Newton
+166	en	P36	Q1445	Tamil Nadu	Q1352	Chennai
+167	en	P36	Q23165	Gloucestershire	Q170497	Gloucester
+168	en	P36	Q488194	Atkinson County	Q2534070	Pearson
+169	en	P36	Q490369	Gentry County	Q945046	Albany
+170	en	P36	Q12771	Canton of Vaud	Q807	Lausanne
+171	en	P36	Q490215	Noxubee County	Q2005266	Macon
+172	en	P36	Q1498	Uttar Pradesh	Q47916	Lucknow
+173	en	P36	Q450374	Multnomah County	Q6106	Portland
+174	en	P36	Q512901	Fairbanks North Star Borough	Q79638	Fairbanks
+175	en	P36	Q56152	Ulster County	Q868660	Kingston
+176	en	P36	Q1497633	Gedling	Q694780	Arnold
+177	en	P36	Q108499	San Joaquin County	Q49240	Stockton
+178	en	P36	Q490852	Itawamba County	Q1811625	Fulton
+179	en	P36	Q271915	Fresno County	Q43301	Fresno
+180	en	P36	Q111729	Hunt County	Q976490	Greenville
+181	en	P36	Q54441	Strafford County	Q48215	Dover
+182	en	P36	Q502543	Montmorency County	Q2316365	Atlanta
+183	en	P36	Q80370	Batman Province	Q159835	Batman
+184	en	P36	Q3235	Northern Territory	Q11568	Darwin
+185	en	P36	Q489481	Tulsa County	Q44989	Tulsa
+186	en	P36	Q50625	Hordaland	Q26793	Bergen
+187	en	P36	Q1211	South Dakota	Q40747	Pierre
+188	en	P36	Q1904	Ontario	Q172	Toronto
+189	en	P36	Q771	Massachusetts	Q100	Boston
+190	en	P36	Q514024	Patrick County	Q1094424	Stuart
+191	en	P36	Q211091	Renfrewshire	Q211870	Paisley
+192	en	P36	Q39	Switzerland	Q70	Bern
+193	en	P36	Q214504	Labuan	Q2363616	Victoria
+194	en	P36	Q26601	Brazos County	Q695556	Bryan
+195	en	P36	Q23077	Lancashire	Q184090	Preston
+196	en	P36	Q490112	Laclede County	Q954894	Lebanon
+197	en	P36	Q617375	Hiroshima Prefecture	Q34664	Hiroshima
+198	en	P36	Q511461	Ransom County	Q748348	Lisbon
+199	en	P36	Q477951	Glascock County	Q2102518	Gibson
+200	en	P36	Q1116	Province of Antwerp	Q12892	Antwerp
+201	en	P36	Q490796	Alfalfa County	Q2019238	Cherokee
+202	en	P36	Q16277	Province of Syracuse	Q13670	Syracuse
+203	en	P36	Q508220	Onslow County	Q986369	Jacksonville
+204	en	P36	Q494146	Indiana County	Q1184769	Indiana
+205	en	P36	Q23082	County Durham	Q179815	Durham
+206	en	P36	Q280838	Mountrail County	Q1999227	Stanley
+207	en	P36	Q1617382	Province of New Hampshire	Q49191	Portsmouth
+208	en	P36	Q485592	Darke County	Q763080	Greenville
+209	en	P36	Q495382	Wallowa County	Q533374	Enterprise
+210	en	P36	Q869	Thailand	Q1861	Bangkok
+211	en	P36	Q251267	Cuyahoga County	Q37320	Cleveland
+212	en	P36	Q130637	Glasgow City Council	Q4093	Glasgow
+213	en	P36	Q10557	Swabia	Q2749	Augsburg
+214	en	P36	Q488821	Citrus County	Q743247	Inverness
+215	en	P36	Q1387	Rhode Island	Q18383	Providence
+216	en	P36	Q109709	Yolo County	Q668546	Davis
+217	en	P36	Q162475	County Cork	Q36647	Cork
+218	en	P36	Q487401	Mary Region	Q5713	Mary
+219	en	P36	Q785035	Province of Georgia	Q83813	Savannah
+220	en	P36	Q378896	Smyth County	Q1373794	Marion
+221	en	P36	Q816814	Kingdom of Gwynedd	Q170263	Chester
+222	en	P36	Q918975	Kirklees	Q201812	Huddersfield
+223	en	P36	Q23115	Northamptonshire	Q192240	Northampton
+224	en	P36	Q2513167	Province of South Carolina	Q47716	Charleston
+225	en	P36	Q336322	Ashtabula County	Q1014189	Jefferson
+226	en	P36	Q114904	Onondaga County	Q128069	Syracuse
+227	en	P36	Q58688	Pima County	Q18575	Tucson
+228	en	P36	Q478222	Grand Casablanca	Q7903	Casablanca
+229	en	P36	Q484748	Andrew County	Q966006	Savannah
+230	en	P36	Q374604	Pratt County	Q606988	Pratt
+231	en	P36	Q54925	Guadalajara Province	Q11953	Guadalajara
+232	en	P36	Q820325	City of Newcastle	Q57278	Newcastle
+233	en	P36	Q113029	Boulder County	Q192517	Boulder
+234	en	P36	Q58759	La Paz County	Q916314	Parker
+235	en	P36	Q511647	Bennington County	Q1905654	Manchester
+236	en	P36	Q25	Wales	Q10690	Cardiff
+237	en	P36	Q470626	Amherst County	Q1375037	Amherst
+238	en	P36	Q658527	Jericho Governorate	Q5687	Jericho
+239	en	P36	Q506376	Kosciusko County	Q992560	Warsaw
+240	en	P36	Q486348	Heard County	Q775102	Franklin
+241	en	P36	Q110486	Kaufman County	Q975843	Kaufman
+242	en	P36	Q47967	North West England	Q18125	Manchester
+243	en	P36	Q11917	Canton of Geneva	Q71	Geneva
+244	en	P36	Q925987	Gladstone Region	Q705699	Gladstone
+245	en	P36	Q177819	Old Kingdom of Egypt	Q5715	Memphis
+246	en	P36	Q23635	Bermuda	Q30985	Hamilton
+247	en	P36	Q192761	County Armagh	Q193452	Armagh
+248	en	P36	Q23129	Herefordshire	Q204720	Hereford
+249	en	P36	Q497880	Hampton County	Q2343167	Hampton
+250	en	P36	Q52502	Gothenburg Municipality	Q25287	Gothenburg
+251	en	P36	Q109804	Deaf Smith County	Q981218	Hereford
+252	en	P36	Q485646	Scioto County	Q685335	Portsmouth
+253	en	P36	Q192753	Broadwater County	Q956048	Townsend
+254	en	P36	Q304791	Skamania County	Q514457	Stevenson
+255	en	P36	Q337402	Acadia Parish	Q1022973	Crowley
+256	en	P36	Q206926	North Ayrshire	Q1774629	Irvine
+257	en	P36	Q118743	Tucker County	Q2054204	Parsons
+258	en	P36	Q1797336	Pune district	Q1538	Pune
+259	en	P36	Q12793	Osona	Q13855	Vic
+260	en	P36	Q484156	Converse County	Q983438	Douglas
+261	en	P36	Q1509	Tennessee	Q23197	Nashville
+262	en	P36	Q426398	Neshoba County	Q935334	Philadelphia
+263	en	P36	Q495974	Passaic County	Q138391	Paterson
+264	en	P36	Q160420	Saga Prefecture	Q209766	Saga
+265	en	P36	Q3177715	Pagaruyung Kingdom	Q3492	Sumatra
+266	en	P36	Q266923	Kingdom of Mysore	Q10086	Mysore
+267	en	P36	Q856010	Wellington Region	Q23661	Wellington
+268	en	P36	Q1124743	Penobscot County	Q327012	Bangor
+269	en	P36	Q1397	Ohio	Q16567	Columbus
+270	en	P36	Q1456	South Carolina	Q38453	Columbia
+271	en	P36	Q766	Jamaica	Q34692	Kingston
+272	en	P36	Q3125	Hautes-Alpes	Q175081	Gap
+273	en	P36	Q502587	Salem County	Q1088317	Salem
+274	en	P36	Q5705	Catalonia	Q1492	Barcelona
+275	en	P36	Q494536	Jerome County	Q1518127	Jerome
+276	en	P36	Q1952	Nova Scotia	Q2141	Halifax
+277	en	P36	Q23169	Oxfordshire	Q34217	Oxford
+278	en	P36	Q284840	Latah County	Q499927	Moscow
+279	en	P36	Q487016	Glynn County	Q994144	Brunswick
+280	en	P36	Q496900	Philadelphia County	Q1345	Philadelphia
+281	en	P36	Q495667	Hanson County	Q2414602	Alexandria
+282	en	P36	Q491525	Oglethorpe County	Q972506	Lexington
+283	en	P36	Q61468	Faulkner County	Q79853	Conway
+284	en	P36	Q178341	Day County	Q2350996	Webster
+285	en	P36	Q61414	Arkansas County	Q79844	Stuttgart
+286	en	P36	Q114	Kenya	Q3870	Nairobi
+287	en	P36	Q713750	West Germany	Q586	Bonn
+288	en	P36	Q2354639	East Punjab	Q22424	Punjab
+289	en	P36	Q666486	Shire of Southern Grampians	Q762430	Hamilton
+290	en	P36	Q1919098	City of Melbourne	Q6811747	Melbourne City Centre
+291	en	P36	Q692912	Otago Region	Q133073	Dunedin
+292	en	P36	Q1408	New Jersey	Q25330	Trenton
+293	en	P36	Q824	Oregon	Q43919	Salem
+294	en	P36	Q1194	Schleswig-Holstein	Q1707	Kiel
+295	en	P36	Q1494	Mississippi	Q28198	Jackson
+296	en	P36	Q504385	Bartholomew County	Q941870	Columbus
+297	en	P36	Q208279	Highland	Q160493	Inverness
+298	en	P36	Q894079	Burnley	Q209096	Burnley
+299	en	P36	Q1617704	Dudley	Q213832	Dudley
+300	en	P36	Q506220	Pitt County	Q1989904	Greenville
+301	en	P36	Q485683	Anand district	Q1798750	Anand
+302	en	P36	Q495344	Umatilla County	Q944507	Pendleton
+303	en	P36	Q507000	Sabine Parish	Q2455620	Many
+304	en	P36	Q501074	Marengo County	Q79247	Linden
+305	en	P36	Q774015	Leeds	Q39121	Leeds
+306	en	P36	Q23109	Norfolk	Q130191	Norwich
+307	en	P36	Q1342914	North East Lincolnshire	Q179406	Grimsby
+308	en	P36	Q507365	Tippecanoe County	Q638187	Lafayette
